@@ -1,0 +1,1525 @@
+{
+	"gears": [
+		{
+			"number1": "633",
+			"number2": "272",
+			"location": { "x": 121, "y": 1 }
+		},
+		{ "number1": "17", "number2": "743", "location": { "x": 130, "y": 1 } },
+		{ "number1": "312", "number2": "486", "location": { "x": 31, "y": 2 } },
+		{ "number1": "895", "number2": "483", "location": { "x": 52, "y": 2 } },
+		{ "number1": "727", "number2": "287", "location": { "x": 46, "y": 3 } },
+		{ "number1": "558", "number2": "577", "location": { "x": 14, "y": 4 } },
+		{ "number1": "186", "number2": "925", "location": { "x": 37, "y": 3 } },
+		{ "number1": "286", "number2": "807", "location": { "x": 63, "y": 4 } },
+		{
+			"number1": "491",
+			"number2": "496",
+			"location": { "x": 133, "y": 4 }
+		},
+		{ "number1": "243", "number2": "923", "location": { "x": 24, "y": 5 } },
+		{
+			"number1": "793",
+			"number2": "413",
+			"location": { "x": 109, "y": 5 }
+		},
+		{
+			"number1": "500",
+			"number2": "781",
+			"location": { "x": 123, "y": 5 }
+		},
+		{ "number1": "989", "number2": "413", "location": { "x": 18, "y": 7 } },
+		{ "number1": "713", "number2": "266", "location": { "x": 33, "y": 7 } },
+		{ "number1": "115", "number2": "87", "location": { "x": 68, "y": 7 } },
+		{ "number1": "662", "number2": "969", "location": { "x": 91, "y": 7 } },
+		{
+			"number1": "636",
+			"number2": "632",
+			"location": { "x": 119, "y": 8 }
+		},
+		{ "number1": "498", "number2": "491", "location": { "x": 24, "y": 9 } },
+		{
+			"number1": "279",
+			"number2": "212",
+			"location": { "x": 124, "y": 9 }
+		},
+		{ "number1": "728", "number2": "257", "location": { "x": 9, "y": 9 } },
+		{
+			"number1": "670",
+			"number2": "441",
+			"location": { "x": 54, "y": 10 }
+		},
+		{ "number1": "890", "number2": "35", "location": { "x": 59, "y": 10 } },
+		{
+			"number1": "760",
+			"number2": "828",
+			"location": { "x": 84, "y": 10 }
+		},
+		{
+			"number1": "227",
+			"number2": "239",
+			"location": { "x": 112, "y": 10 }
+		},
+		{
+			"number1": "712",
+			"number2": "834",
+			"location": { "x": 20, "y": 11 }
+		},
+		{
+			"number1": "415",
+			"number2": "609",
+			"location": { "x": 39, "y": 12 }
+		},
+		{
+			"number1": "533",
+			"number2": "206",
+			"location": { "x": 128, "y": 11 }
+		},
+		{
+			"number1": "448",
+			"number2": "904",
+			"location": { "x": 28, "y": 13 }
+		},
+		{ "number1": "467", "number2": "56", "location": { "x": 72, "y": 12 } },
+		{
+			"number1": "244",
+			"number2": "602",
+			"location": { "x": 90, "y": 13 }
+		},
+		{
+			"number1": "453",
+			"number2": "670",
+			"location": { "x": 13, "y": 14 }
+		},
+		{
+			"number1": "616",
+			"number2": "938",
+			"location": { "x": 23, "y": 14 }
+		},
+		{
+			"number1": "672",
+			"number2": "211",
+			"location": { "x": 67, "y": 14 }
+		},
+		{
+			"number1": "549",
+			"number2": "661",
+			"location": { "x": 109, "y": 12 }
+		},
+		{
+			"number1": "141",
+			"number2": "29",
+			"location": { "x": 134, "y": 14 }
+		},
+		{ "number1": "699", "number2": "164", "location": { "x": 8, "y": 15 } },
+		{
+			"number1": "189",
+			"number2": "426",
+			"location": { "x": 101, "y": 15 }
+		},
+		{
+			"number1": "473",
+			"number2": "117",
+			"location": { "x": 126, "y": 15 }
+		},
+		{
+			"number1": "684",
+			"number2": "587",
+			"location": { "x": 44, "y": 16 }
+		},
+		{
+			"number1": "646",
+			"number2": "346",
+			"location": { "x": 54, "y": 17 }
+		},
+		{ "number1": "921", "number2": "962", "location": { "x": 9, "y": 17 } },
+		{
+			"number1": "150",
+			"number2": "821",
+			"location": { "x": 20, "y": 17 }
+		},
+		{
+			"number1": "635",
+			"number2": "117",
+			"location": { "x": 28, "y": 18 }
+		},
+		{
+			"number1": "973",
+			"number2": "965",
+			"location": { "x": 32, "y": 18 }
+		},
+		{
+			"number1": "174",
+			"number2": "560",
+			"location": { "x": 66, "y": 19 }
+		},
+		{
+			"number1": "732",
+			"number2": "177",
+			"location": { "x": 93, "y": 18 }
+		},
+		{
+			"number1": "146",
+			"number2": "215",
+			"location": { "x": 109, "y": 19 }
+		},
+		{ "number1": "747", "number2": "967", "location": { "x": 8, "y": 20 } },
+		{
+			"number1": "450",
+			"number2": "316",
+			"location": { "x": 60, "y": 21 }
+		},
+		{
+			"number1": "327",
+			"number2": "727",
+			"location": { "x": 95, "y": 20 }
+		},
+		{
+			"number1": "337",
+			"number2": "291",
+			"location": { "x": 131, "y": 22 }
+		},
+		{
+			"number1": "718",
+			"number2": "33",
+			"location": { "x": 125, "y": 23 }
+		},
+		{
+			"number1": "700",
+			"number2": "378",
+			"location": { "x": 38, "y": 24 }
+		},
+		{
+			"number1": "344",
+			"number2": "138",
+			"location": { "x": 50, "y": 23 }
+		},
+		{
+			"number1": "907",
+			"number2": "191",
+			"location": { "x": 72, "y": 24 }
+		},
+		{ "number1": "860", "number2": "757", "location": { "x": 3, "y": 25 } },
+		{
+			"number1": "721",
+			"number2": "804",
+			"location": { "x": 101, "y": 24 }
+		},
+		{ "number1": "908", "number2": "42", "location": { "x": 97, "y": 27 } },
+		{
+			"number1": "172",
+			"number2": "945",
+			"location": { "x": 27, "y": 28 }
+		},
+		{
+			"number1": "933",
+			"number2": "704",
+			"location": { "x": 62, "y": 29 }
+		},
+		{
+			"number1": "641",
+			"number2": "796",
+			"location": { "x": 73, "y": 29 }
+		},
+		{
+			"number1": "189",
+			"number2": "335",
+			"location": { "x": 90, "y": 28 }
+		},
+		{
+			"number1": "596",
+			"number2": "929",
+			"location": { "x": 128, "y": 29 }
+		},
+		{ "number1": "23", "number2": "532", "location": { "x": 48, "y": 29 } },
+		{
+			"number1": "382",
+			"number2": "433",
+			"location": { "x": 27, "y": 31 }
+		},
+		{
+			"number1": "46",
+			"number2": "993",
+			"location": { "x": 113, "y": 31 }
+		},
+		{
+			"number1": "575",
+			"number2": "897",
+			"location": { "x": 41, "y": 33 }
+		},
+		{
+			"number1": "334",
+			"number2": "186",
+			"location": { "x": 122, "y": 32 }
+		},
+		{
+			"number1": "267",
+			"number2": "444",
+			"location": { "x": 99, "y": 34 }
+		},
+		{
+			"number1": "474",
+			"number2": "122",
+			"location": { "x": 35, "y": 35 }
+		},
+		{
+			"number1": "215",
+			"number2": "346",
+			"location": { "x": 48, "y": 34 }
+		},
+		{
+			"number1": "100",
+			"number2": "326",
+			"location": { "x": 57, "y": 35 }
+		},
+		{
+			"number1": "812",
+			"number2": "472",
+			"location": { "x": 79, "y": 35 }
+		},
+		{
+			"number1": "196",
+			"number2": "330",
+			"location": { "x": 134, "y": 35 }
+		},
+		{
+			"number1": "980",
+			"number2": "907",
+			"location": { "x": 19, "y": 36 }
+		},
+		{ "number1": "305", "number2": "93", "location": { "x": 72, "y": 36 } },
+		{
+			"number1": "424",
+			"number2": "339",
+			"location": { "x": 85, "y": 36 }
+		},
+		{
+			"number1": "210",
+			"number2": "730",
+			"location": { "x": 111, "y": 36 }
+		},
+		{
+			"number1": "350",
+			"number2": "201",
+			"location": { "x": 100, "y": 36 }
+		},
+		{
+			"number1": "303",
+			"number2": "561",
+			"location": { "x": 28, "y": 38 }
+		},
+		{
+			"number1": "140",
+			"number2": "112",
+			"location": { "x": 42, "y": 37 }
+		},
+		{
+			"number1": "498",
+			"number2": "170",
+			"location": { "x": 51, "y": 39 }
+		},
+		{
+			"number1": "241",
+			"number2": "45",
+			"location": { "x": 115, "y": 39 }
+		},
+		{ "number1": "359", "number2": "42", "location": { "x": 6, "y": 39 } },
+		{
+			"number1": "528",
+			"number2": "770",
+			"location": { "x": 38, "y": 40 }
+		},
+		{
+			"number1": "570",
+			"number2": "179",
+			"location": { "x": 60, "y": 40 }
+		},
+		{
+			"number1": "253",
+			"number2": "796",
+			"location": { "x": 57, "y": 41 }
+		},
+		{
+			"number1": "515",
+			"number2": "524",
+			"location": { "x": 66, "y": 41 }
+		},
+		{
+			"number1": "946",
+			"number2": "447",
+			"location": { "x": 120, "y": 41 }
+		},
+		{ "number1": "155", "number2": "80", "location": { "x": 4, "y": 42 } },
+		{ "number1": "103", "number2": "24", "location": { "x": 17, "y": 42 } },
+		{
+			"number1": "275",
+			"number2": "433",
+			"location": { "x": 78, "y": 42 }
+		},
+		{
+			"number1": "963",
+			"number2": "492",
+			"location": { "x": 26, "y": 43 }
+		},
+		{
+			"number1": "444",
+			"number2": "222",
+			"location": { "x": 39, "y": 43 }
+		},
+		{
+			"number1": "656",
+			"number2": "373",
+			"location": { "x": 54, "y": 43 }
+		},
+		{
+			"number1": "997",
+			"number2": "691",
+			"location": { "x": 91, "y": 43 }
+		},
+		{
+			"number1": "122",
+			"number2": "500",
+			"location": { "x": 100, "y": 41 }
+		},
+		{
+			"number1": "711",
+			"number2": "655",
+			"location": { "x": 109, "y": 43 }
+		},
+		{
+			"number1": "894",
+			"number2": "134",
+			"location": { "x": 133, "y": 44 }
+		},
+		{
+			"number1": "304",
+			"number2": "508",
+			"location": { "x": 69, "y": 45 }
+		},
+		{
+			"number1": "151",
+			"number2": "118",
+			"location": { "x": 83, "y": 45 }
+		},
+		{
+			"number1": "591",
+			"number2": "696",
+			"location": { "x": 98, "y": 46 }
+		},
+		{
+			"number1": "239",
+			"number2": "198",
+			"location": { "x": 12, "y": 48 }
+		},
+		{
+			"number1": "531",
+			"number2": "957",
+			"location": { "x": 41, "y": 48 }
+		},
+		{
+			"number1": "741",
+			"number2": "638",
+			"location": { "x": 106, "y": 48 }
+		},
+		{
+			"number1": "174",
+			"number2": "514",
+			"location": { "x": 133, "y": 48 }
+		},
+		{
+			"number1": "506",
+			"number2": "809",
+			"location": { "x": 50, "y": 48 }
+		},
+		{
+			"number1": "906",
+			"number2": "852",
+			"location": { "x": 67, "y": 49 }
+		},
+		{ "number1": "17", "number2": "513", "location": { "x": 89, "y": 48 } },
+		{
+			"number1": "51",
+			"number2": "959",
+			"location": { "x": 100, "y": 49 }
+		},
+		{
+			"number1": "781",
+			"number2": "116",
+			"location": { "x": 15, "y": 50 }
+		},
+		{
+			"number1": "253",
+			"number2": "239",
+			"location": { "x": 25, "y": 50 }
+		},
+		{
+			"number1": "222",
+			"number2": "346",
+			"location": { "x": 44, "y": 50 }
+		},
+		{
+			"number1": "172",
+			"number2": "318",
+			"location": { "x": 123, "y": 50 }
+		},
+		{
+			"number1": "104",
+			"number2": "593",
+			"location": { "x": 116, "y": 51 }
+		},
+		{
+			"number1": "712",
+			"number2": "957",
+			"location": { "x": 20, "y": 52 }
+		},
+		{
+			"number1": "745",
+			"number2": "365",
+			"location": { "x": 90, "y": 52 }
+		},
+		{
+			"number1": "109",
+			"number2": "331",
+			"location": { "x": 100, "y": 52 }
+		},
+		{
+			"number1": "171",
+			"number2": "871",
+			"location": { "x": 66, "y": 53 }
+		},
+		{
+			"number1": "906",
+			"number2": "416",
+			"location": { "x": 109, "y": 53 }
+		},
+		{
+			"number1": "844",
+			"number2": "892",
+			"location": { "x": 58, "y": 55 }
+		},
+		{
+			"number1": "810",
+			"number2": "685",
+			"location": { "x": 126, "y": 54 }
+		},
+		{
+			"number1": "776",
+			"number2": "969",
+			"location": { "x": 135, "y": 55 }
+		},
+		{
+			"number1": "681",
+			"number2": "688",
+			"location": { "x": 28, "y": 56 }
+		},
+		{
+			"number1": "650",
+			"number2": "241",
+			"location": { "x": 74, "y": 54 }
+		},
+		{
+			"number1": "123",
+			"number2": "225",
+			"location": { "x": 122, "y": 56 }
+		},
+		{
+			"number1": "983",
+			"number2": "413",
+			"location": { "x": 39, "y": 57 }
+		},
+		{ "number1": "234", "number2": "87", "location": { "x": 89, "y": 57 } },
+		{
+			"number1": "443",
+			"number2": "943",
+			"location": { "x": 105, "y": 57 }
+		},
+		{
+			"number1": "496",
+			"number2": "732",
+			"location": { "x": 129, "y": 57 }
+		},
+		{
+			"number1": "644",
+			"number2": "762",
+			"location": { "x": 32, "y": 59 }
+		},
+		{
+			"number1": "997",
+			"number2": "335",
+			"location": { "x": 46, "y": 59 }
+		},
+		{
+			"number1": "553",
+			"number2": "842",
+			"location": { "x": 52, "y": 59 }
+		},
+		{
+			"number1": "866",
+			"number2": "77",
+			"location": { "x": 117, "y": 59 }
+		},
+		{ "number1": "563", "number2": "52", "location": { "x": 10, "y": 59 } },
+		{
+			"number1": "910",
+			"number2": "761",
+			"location": { "x": 21, "y": 60 }
+		},
+		{
+			"number1": "267",
+			"number2": "597",
+			"location": { "x": 26, "y": 60 }
+		},
+		{
+			"number1": "421",
+			"number2": "739",
+			"location": { "x": 100, "y": 59 }
+		},
+		{
+			"number1": "251",
+			"number2": "169",
+			"location": { "x": 124, "y": 60 }
+		},
+		{
+			"number1": "605",
+			"number2": "201",
+			"location": { "x": 132, "y": 60 }
+		},
+		{
+			"number1": "543",
+			"number2": "663",
+			"location": { "x": 67, "y": 62 }
+		},
+		{ "number1": "76", "number2": "65", "location": { "x": 71, "y": 62 } },
+		{ "number1": "8", "number2": "485", "location": { "x": 118, "y": 62 } },
+		{
+			"number1": "982",
+			"number2": "749",
+			"location": { "x": 129, "y": 62 }
+		},
+		{ "number1": "894", "number2": "34", "location": { "x": 5, "y": 63 } },
+		{
+			"number1": "310",
+			"number2": "986",
+			"location": { "x": 21, "y": 62 }
+		},
+		{
+			"number1": "192",
+			"number2": "947",
+			"location": { "x": 74, "y": 63 }
+		},
+		{
+			"number1": "127",
+			"number2": "598",
+			"location": { "x": 80, "y": 63 }
+		},
+		{
+			"number1": "566",
+			"number2": "768",
+			"location": { "x": 88, "y": 62 }
+		},
+		{
+			"number1": "850",
+			"number2": "791",
+			"location": { "x": 125, "y": 63 }
+		},
+		{
+			"number1": "970",
+			"number2": "18",
+			"location": { "x": 133, "y": 63 }
+		},
+		{
+			"number1": "835",
+			"number2": "132",
+			"location": { "x": 43, "y": 64 }
+		},
+		{
+			"number1": "874",
+			"number2": "184",
+			"location": { "x": 50, "y": 64 }
+		},
+		{
+			"number1": "947",
+			"number2": "723",
+			"location": { "x": 98, "y": 63 }
+		},
+		{
+			"number1": "12",
+			"number2": "618",
+			"location": { "x": 108, "y": 64 }
+		},
+		{
+			"number1": "922",
+			"number2": "154",
+			"location": { "x": 56, "y": 65 }
+		},
+		{
+			"number1": "880",
+			"number2": "297",
+			"location": { "x": 83, "y": 65 }
+		},
+		{ "number1": "165", "number2": "619", "location": { "x": 5, "y": 66 } },
+		{
+			"number1": "226",
+			"number2": "390",
+			"location": { "x": 91, "y": 66 }
+		},
+		{
+			"number1": "625",
+			"number2": "513",
+			"location": { "x": 110, "y": 67 }
+		},
+		{
+			"number1": "641",
+			"number2": "520",
+			"location": { "x": 28, "y": 67 }
+		},
+		{
+			"number1": "918",
+			"number2": "905",
+			"location": { "x": 37, "y": 68 }
+		},
+		{
+			"number1": "502",
+			"number2": "608",
+			"location": { "x": 97, "y": 68 }
+		},
+		{
+			"number1": "789",
+			"number2": "190",
+			"location": { "x": 122, "y": 68 }
+		},
+		{
+			"number1": "984",
+			"number2": "993",
+			"location": { "x": 136, "y": 68 }
+		},
+		{
+			"number1": "838",
+			"number2": "123",
+			"location": { "x": 46, "y": 69 }
+		},
+		{ "number1": "240", "number2": "98", "location": { "x": 51, "y": 69 } },
+		{
+			"number1": "196",
+			"number2": "126",
+			"location": { "x": 78, "y": 69 }
+		},
+		{
+			"number1": "751",
+			"number2": "219",
+			"location": { "x": 132, "y": 69 }
+		},
+		{ "number1": "881", "number2": "70", "location": { "x": 29, "y": 70 } },
+		{
+			"number1": "643",
+			"number2": "235",
+			"location": { "x": 75, "y": 70 }
+		},
+		{
+			"number1": "109",
+			"number2": "551",
+			"location": { "x": 18, "y": 71 }
+		},
+		{
+			"number1": "368",
+			"number2": "883",
+			"location": { "x": 41, "y": 71 }
+		},
+		{
+			"number1": "546",
+			"number2": "448",
+			"location": { "x": 115, "y": 71 }
+		},
+		{ "number1": "18", "number2": "153", "location": { "x": 24, "y": 72 } },
+		{
+			"number1": "296",
+			"number2": "723",
+			"location": { "x": 35, "y": 72 }
+		},
+		{
+			"number1": "987",
+			"number2": "705",
+			"location": { "x": 59, "y": 72 }
+		},
+		{ "number1": "8", "number2": "287", "location": { "x": 87, "y": 72 } },
+		{
+			"number1": "428",
+			"number2": "612",
+			"location": { "x": 102, "y": 73 }
+		},
+		{
+			"number1": "334",
+			"number2": "942",
+			"location": { "x": 127, "y": 73 }
+		},
+		{
+			"number1": "619",
+			"number2": "941",
+			"location": { "x": 134, "y": 73 }
+		},
+		{
+			"number1": "589",
+			"number2": "686",
+			"location": { "x": 10, "y": 74 }
+		},
+		{
+			"number1": "832",
+			"number2": "665",
+			"location": { "x": 50, "y": 74 }
+		},
+		{
+			"number1": "794",
+			"number2": "686",
+			"location": { "x": 22, "y": 74 }
+		},
+		{
+			"number1": "192",
+			"number2": "921",
+			"location": { "x": 62, "y": 75 }
+		},
+		{
+			"number1": "970",
+			"number2": "984",
+			"location": { "x": 96, "y": 75 }
+		},
+		{
+			"number1": "546",
+			"number2": "450",
+			"location": { "x": 108, "y": 75 }
+		},
+		{ "number1": "223", "number2": "372", "location": { "x": 5, "y": 76 } },
+		{
+			"number1": "396",
+			"number2": "906",
+			"location": { "x": 60, "y": 76 }
+		},
+		{
+			"number1": "408",
+			"number2": "322",
+			"location": { "x": 80, "y": 76 }
+		},
+		{
+			"number1": "557",
+			"number2": "469",
+			"location": { "x": 102, "y": 76 }
+		},
+		{
+			"number1": "521",
+			"number2": "643",
+			"location": { "x": 130, "y": 76 }
+		},
+		{
+			"number1": "170",
+			"number2": "760",
+			"location": { "x": 16, "y": 77 }
+		},
+		{
+			"number1": "166",
+			"number2": "911",
+			"location": { "x": 27, "y": 77 }
+		},
+		{
+			"number1": "390",
+			"number2": "600",
+			"location": { "x": 34, "y": 77 }
+		},
+		{
+			"number1": "100",
+			"number2": "159",
+			"location": { "x": 53, "y": 77 }
+		},
+		{
+			"number1": "639",
+			"number2": "35",
+			"location": { "x": 120, "y": 77 }
+		},
+		{
+			"number1": "999",
+			"number2": "159",
+			"location": { "x": 42, "y": 78 }
+		},
+		{
+			"number1": "250",
+			"number2": "232",
+			"location": { "x": 111, "y": 78 }
+		},
+		{
+			"number1": "494",
+			"number2": "331",
+			"location": { "x": 36, "y": 79 }
+		},
+		{ "number1": "67", "number2": "922", "location": { "x": 20, "y": 80 } },
+		{ "number1": "747", "number2": "29", "location": { "x": 69, "y": 79 } },
+		{
+			"number1": "199",
+			"number2": "587",
+			"location": { "x": 133, "y": 79 }
+		},
+		{
+			"number1": "158",
+			"number2": "946",
+			"location": { "x": 60, "y": 81 }
+		},
+		{
+			"number1": "29",
+			"number2": "837",
+			"location": { "x": 102, "y": 81 }
+		},
+		{
+			"number1": "510",
+			"number2": "566",
+			"location": { "x": 45, "y": 82 }
+		},
+		{
+			"number1": "879",
+			"number2": "783",
+			"location": { "x": 132, "y": 82 }
+		},
+		{
+			"number1": "129",
+			"number2": "949",
+			"location": { "x": 39, "y": 84 }
+		},
+		{
+			"number1": "690",
+			"number2": "991",
+			"location": { "x": 50, "y": 84 }
+		},
+		{
+			"number1": "237",
+			"number2": "482",
+			"location": { "x": 55, "y": 84 }
+		},
+		{
+			"number1": "411",
+			"number2": "286",
+			"location": { "x": 114, "y": 84 }
+		},
+		{
+			"number1": "733",
+			"number2": "424",
+			"location": { "x": 126, "y": 84 }
+		},
+		{
+			"number1": "670",
+			"number2": "992",
+			"location": { "x": 11, "y": 85 }
+		},
+		{
+			"number1": "978",
+			"number2": "307",
+			"location": { "x": 14, "y": 85 }
+		},
+		{ "number1": "84", "number2": "634", "location": { "x": 20, "y": 85 } },
+		{
+			"number1": "632",
+			"number2": "811",
+			"location": { "x": 59, "y": 85 }
+		},
+		{
+			"number1": "413",
+			"number2": "459",
+			"location": { "x": 81, "y": 86 }
+		},
+		{
+			"number1": "201",
+			"number2": "413",
+			"location": { "x": 88, "y": 86 }
+		},
+		{
+			"number1": "663",
+			"number2": "446",
+			"location": { "x": 107, "y": 86 }
+		},
+		{
+			"number1": "296",
+			"number2": "630",
+			"location": { "x": 136, "y": 85 }
+		},
+		{ "number1": "4", "number2": "373", "location": { "x": 73, "y": 87 } },
+		{
+			"number1": "896",
+			"number2": "393",
+			"location": { "x": 97, "y": 87 }
+		},
+		{
+			"number1": "253",
+			"number2": "140",
+			"location": { "x": 25, "y": 88 }
+		},
+		{ "number1": "926", "number2": "45", "location": { "x": 93, "y": 88 } },
+		{
+			"number1": "344",
+			"number2": "878",
+			"location": { "x": 51, "y": 89 }
+		},
+		{ "number1": "85", "number2": "578", "location": { "x": 63, "y": 89 } },
+		{
+			"number1": "545",
+			"number2": "173",
+			"location": { "x": 103, "y": 89 }
+		},
+		{ "number1": "776", "number2": "415", "location": { "x": 3, "y": 89 } },
+		{
+			"number1": "988",
+			"number2": "631",
+			"location": { "x": 39, "y": 91 }
+		},
+		{ "number1": "22", "number2": "440", "location": { "x": 54, "y": 91 } },
+		{
+			"number1": "284",
+			"number2": "575",
+			"location": { "x": 84, "y": 91 }
+		},
+		{
+			"number1": "564",
+			"number2": "48",
+			"location": { "x": 110, "y": 90 }
+		},
+		{
+			"number1": "33",
+			"number2": "576",
+			"location": { "x": 120, "y": 91 }
+		},
+		{
+			"number1": "669",
+			"number2": "461",
+			"location": { "x": 64, "y": 91 }
+		},
+		{
+			"number1": "367",
+			"number2": "142",
+			"location": { "x": 126, "y": 93 }
+		},
+		{
+			"number1": "618",
+			"number2": "660",
+			"location": { "x": 13, "y": 94 }
+		},
+		{
+			"number1": "493",
+			"number2": "666",
+			"location": { "x": 63, "y": 93 }
+		},
+		{
+			"number1": "729",
+			"number2": "146",
+			"location": { "x": 75, "y": 94 }
+		},
+		{
+			"number1": "627",
+			"number2": "782",
+			"location": { "x": 46, "y": 95 }
+		},
+		{
+			"number1": "703",
+			"number2": "557",
+			"location": { "x": 70, "y": 95 }
+		},
+		{ "number1": "3", "number2": "231", "location": { "x": 7, "y": 96 } },
+		{
+			"number1": "991",
+			"number2": "409",
+			"location": { "x": 116, "y": 96 }
+		},
+		{
+			"number1": "683",
+			"number2": "289",
+			"location": { "x": 26, "y": 97 }
+		},
+		{
+			"number1": "542",
+			"number2": "782",
+			"location": { "x": 31, "y": 96 }
+		},
+		{
+			"number1": "755",
+			"number2": "992",
+			"location": { "x": 56, "y": 97 }
+		},
+		{
+			"number1": "943",
+			"number2": "583",
+			"location": { "x": 134, "y": 97 }
+		},
+		{
+			"number1": "891",
+			"number2": "435",
+			"location": { "x": 12, "y": 98 }
+		},
+		{ "number1": "69", "number2": "675", "location": { "x": 83, "y": 98 } },
+		{
+			"number1": "610",
+			"number2": "934",
+			"location": { "x": 91, "y": 98 }
+		},
+		{ "number1": "964", "number2": "21", "location": { "x": 15, "y": 99 } },
+		{
+			"number1": "830",
+			"number2": "430",
+			"location": { "x": 50, "y": 99 }
+		},
+		{
+			"number1": "870",
+			"number2": "205",
+			"location": { "x": 88, "y": 99 }
+		},
+		{
+			"number1": "310",
+			"number2": "891",
+			"location": { "x": 116, "y": 98 }
+		},
+		{
+			"number1": "161",
+			"number2": "116",
+			"location": { "x": 69, "y": 100 }
+		},
+		{
+			"number1": "239",
+			"number2": "622",
+			"location": { "x": 40, "y": 101 }
+		},
+		{
+			"number1": "376",
+			"number2": "34",
+			"location": { "x": 80, "y": 101 }
+		},
+		{
+			"number1": "790",
+			"number2": "448",
+			"location": { "x": 99, "y": 101 }
+		},
+		{
+			"number1": "474",
+			"number2": "142",
+			"location": { "x": 28, "y": 102 }
+		},
+		{
+			"number1": "765",
+			"number2": "666",
+			"location": { "x": 58, "y": 102 }
+		},
+		{
+			"number1": "513",
+			"number2": "439",
+			"location": { "x": 121, "y": 102 }
+		},
+		{
+			"number1": "262",
+			"number2": "647",
+			"location": { "x": 3, "y": 103 }
+		},
+		{
+			"number1": "785",
+			"number2": "236",
+			"location": { "x": 23, "y": 103 }
+		},
+		{
+			"number1": "45",
+			"number2": "765",
+			"location": { "x": 81, "y": 103 }
+		},
+		{
+			"number1": "236",
+			"number2": "121",
+			"location": { "x": 103, "y": 104 }
+		},
+		{
+			"number1": "338",
+			"number2": "496",
+			"location": { "x": 130, "y": 104 }
+		},
+		{
+			"number1": "218",
+			"number2": "98",
+			"location": { "x": 33, "y": 105 }
+		},
+		{
+			"number1": "819",
+			"number2": "779",
+			"location": { "x": 46, "y": 103 }
+		},
+		{
+			"number1": "247",
+			"number2": "622",
+			"location": { "x": 62, "y": 106 }
+		},
+		{
+			"number1": "628",
+			"number2": "684",
+			"location": { "x": 58, "y": 107 }
+		},
+		{
+			"number1": "539",
+			"number2": "558",
+			"location": { "x": 97, "y": 107 }
+		},
+		{
+			"number1": "659",
+			"number2": "819",
+			"location": { "x": 26, "y": 108 }
+		},
+		{
+			"number1": "868",
+			"number2": "76",
+			"location": { "x": 66, "y": 108 }
+		},
+		{
+			"number1": "713",
+			"number2": "784",
+			"location": { "x": 88, "y": 108 }
+		},
+		{
+			"number1": "467",
+			"number2": "154",
+			"location": { "x": 5, "y": 109 }
+		},
+		{
+			"number1": "382",
+			"number2": "424",
+			"location": { "x": 11, "y": 109 }
+		},
+		{
+			"number1": "899",
+			"number2": "583",
+			"location": { "x": 19, "y": 109 }
+		},
+		{
+			"number1": "952",
+			"number2": "388",
+			"location": { "x": 38, "y": 108 }
+		},
+		{
+			"number1": "60",
+			"number2": "599",
+			"location": { "x": 130, "y": 109 }
+		},
+		{
+			"number1": "615",
+			"number2": "115",
+			"location": { "x": 135, "y": 109 }
+		},
+		{
+			"number1": "866",
+			"number2": "985",
+			"location": { "x": 77, "y": 110 }
+		},
+		{
+			"number1": "506",
+			"number2": "523",
+			"location": { "x": 42, "y": 112 }
+		},
+		{
+			"number1": "152",
+			"number2": "247",
+			"location": { "x": 69, "y": 112 }
+		},
+		{
+			"number1": "589",
+			"number2": "711",
+			"location": { "x": 86, "y": 112 }
+		},
+		{
+			"number1": "44",
+			"number2": "302",
+			"location": { "x": 106, "y": 112 }
+		},
+		{
+			"number1": "560",
+			"number2": "986",
+			"location": { "x": 123, "y": 112 }
+		},
+		{
+			"number1": "901",
+			"number2": "763",
+			"location": { "x": 31, "y": 113 }
+		},
+		{
+			"number1": "92",
+			"number2": "305",
+			"location": { "x": 54, "y": 113 }
+		},
+		{
+			"number1": "330",
+			"number2": "81",
+			"location": { "x": 120, "y": 113 }
+		},
+		{
+			"number1": "190",
+			"number2": "626",
+			"location": { "x": 78, "y": 114 }
+		},
+		{
+			"number1": "154",
+			"number2": "339",
+			"location": { "x": 7, "y": 115 }
+		},
+		{
+			"number1": "59",
+			"number2": "782",
+			"location": { "x": 39, "y": 115 }
+		},
+		{
+			"number1": "726",
+			"number2": "949",
+			"location": { "x": 63, "y": 115 }
+		},
+		{
+			"number1": "79",
+			"number2": "655",
+			"location": { "x": 73, "y": 115 }
+		},
+		{
+			"number1": "521",
+			"number2": "160",
+			"location": { "x": 93, "y": 113 }
+		},
+		{
+			"number1": "159",
+			"number2": "905",
+			"location": { "x": 99, "y": 115 }
+		},
+		{
+			"number1": "522",
+			"number2": "824",
+			"location": { "x": 96, "y": 117 }
+		},
+		{
+			"number1": "127",
+			"number2": "60",
+			"location": { "x": 19, "y": 118 }
+		},
+		{
+			"number1": "671",
+			"number2": "310",
+			"location": { "x": 129, "y": 118 }
+		},
+		{
+			"number1": "271",
+			"number2": "38",
+			"location": { "x": 41, "y": 119 }
+		},
+		{
+			"number1": "513",
+			"number2": "76",
+			"location": { "x": 80, "y": 119 }
+		},
+		{
+			"number1": "463",
+			"number2": "601",
+			"location": { "x": 109, "y": 119 }
+		},
+		{
+			"number1": "154",
+			"number2": "211",
+			"location": { "x": 134, "y": 119 }
+		},
+		{
+			"number1": "892",
+			"number2": "616",
+			"location": { "x": 24, "y": 120 }
+		},
+		{
+			"number1": "354",
+			"number2": "20",
+			"location": { "x": 49, "y": 119 }
+		},
+		{
+			"number1": "99",
+			"number2": "556",
+			"location": { "x": 69, "y": 120 }
+		},
+		{
+			"number1": "351",
+			"number2": "50",
+			"location": { "x": 85, "y": 120 }
+		},
+		{
+			"number1": "45",
+			"number2": "304",
+			"location": { "x": 88, "y": 121 }
+		},
+		{
+			"number1": "570",
+			"number2": "303",
+			"location": { "x": 41, "y": 122 }
+		},
+		{
+			"number1": "970",
+			"number2": "872",
+			"location": { "x": 50, "y": 122 }
+		},
+		{
+			"number1": "751",
+			"number2": "854",
+			"location": { "x": 57, "y": 122 }
+		},
+		{ "number1": "958", "number2": "2", "location": { "x": 77, "y": 122 } },
+		{
+			"number1": "866",
+			"number2": "937",
+			"location": { "x": 110, "y": 124 }
+		},
+		{
+			"number1": "792",
+			"number2": "667",
+			"location": { "x": 30, "y": 125 }
+		},
+		{
+			"number1": "967",
+			"number2": "151",
+			"location": { "x": 40, "y": 125 }
+		},
+		{
+			"number1": "304",
+			"number2": "776",
+			"location": { "x": 74, "y": 125 }
+		},
+		{
+			"number1": "532",
+			"number2": "297",
+			"location": { "x": 124, "y": 125 }
+		},
+		{
+			"number1": "156",
+			"number2": "403",
+			"location": { "x": 17, "y": 127 }
+		},
+		{
+			"number1": "846",
+			"number2": "739",
+			"location": { "x": 79, "y": 127 }
+		},
+		{
+			"number1": "213",
+			"number2": "838",
+			"location": { "x": 9, "y": 128 }
+		},
+		{
+			"number1": "656",
+			"number2": "170",
+			"location": { "x": 52, "y": 128 }
+		},
+		{
+			"number1": "866",
+			"number2": "610",
+			"location": { "x": 87, "y": 127 }
+		},
+		{
+			"number1": "576",
+			"number2": "981",
+			"location": { "x": 122, "y": 128 }
+		},
+		{
+			"number1": "231",
+			"number2": "412",
+			"location": { "x": 47, "y": 129 }
+		},
+		{
+			"number1": "645",
+			"number2": "593",
+			"location": { "x": 14, "y": 130 }
+		},
+		{
+			"number1": "906",
+			"number2": "482",
+			"location": { "x": 71, "y": 130 }
+		},
+		{
+			"number1": "578",
+			"number2": "915",
+			"location": { "x": 105, "y": 130 }
+		},
+		{
+			"number1": "447",
+			"number2": "490",
+			"location": { "x": 21, "y": 131 }
+		},
+		{
+			"number1": "33",
+			"number2": "513",
+			"location": { "x": 41, "y": 131 }
+		},
+		{
+			"number1": "365",
+			"number2": "917",
+			"location": { "x": 95, "y": 131 }
+		},
+		{
+			"number1": "327",
+			"number2": "903",
+			"location": { "x": 120, "y": 132 }
+		},
+		{
+			"number1": "529",
+			"number2": "455",
+			"location": { "x": 129, "y": 132 }
+		},
+		{ "number1": "695", "number2": "7", "location": { "x": 77, "y": 133 } },
+		{
+			"number1": "446",
+			"number2": "628",
+			"location": { "x": 106, "y": 133 }
+		},
+		{
+			"number1": "472",
+			"number2": "195",
+			"location": { "x": 94, "y": 134 }
+		},
+		{
+			"number1": "224",
+			"number2": "59",
+			"location": { "x": 99, "y": 134 }
+		},
+		{
+			"number1": "724",
+			"number2": "729",
+			"location": { "x": 24, "y": 135 }
+		},
+		{
+			"number1": "343",
+			"number2": "147",
+			"location": { "x": 4, "y": 136 }
+		},
+		{
+			"number1": "374",
+			"number2": "613",
+			"location": { "x": 9, "y": 136 }
+		},
+		{
+			"number1": "135",
+			"number2": "800",
+			"location": { "x": 78, "y": 136 }
+		},
+		{
+			"number1": "482",
+			"number2": "222",
+			"location": { "x": 81, "y": 136 }
+		},
+		{
+			"number1": "384",
+			"number2": "933",
+			"location": { "x": 88, "y": 136 }
+		},
+		{
+			"number1": "534",
+			"number2": "308",
+			"location": { "x": 26, "y": 137 }
+		},
+		{
+			"number1": "882",
+			"number2": "994",
+			"location": { "x": 48, "y": 138 }
+		},
+		{
+			"number1": "836",
+			"number2": "857",
+			"location": { "x": 91, "y": 138 }
+		},
+		{
+			"number1": "628",
+			"number2": "184",
+			"location": { "x": 124, "y": 138 }
+		}
+	]
+}
