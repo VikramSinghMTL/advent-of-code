@@ -1,2 +1,5 @@
 node_modules
 .DS_Store
+
+# As per Eric's wishes.
+input.txt
